@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there,i am yueo
+i am an applied chemistry undergraduate exploring AI,neuroscience,personal knowledge managenment,and thinking in public
+!now i am just transformed from a totally noob in AI fields to a strongger one,i will constatly share my growth here
 
-<!--
-**yueo-01/yueo-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## what i am exploring
+- neuroscience learning
+- personal thoughts on maybe operas,books,experiences,or even more
+- AI fields exploring
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## current dirction
+- building workflows 
+- record konwledges systematically
+- create a really useful tool by myself
