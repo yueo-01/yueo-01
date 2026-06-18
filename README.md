@@ -11,3 +11,7 @@ i am an applied chemistry undergraduate exploring AI,neuroscience,personal knowl
 - building workflows 
 - record konwledges systematically
 - create a really useful tool by myself
+
+## AI learning small steps
+
+- [2026-06-18: Codex skills, progressive disclosure, and safe GitHub publishing](logs/2026/06/2026-06-18.md)
