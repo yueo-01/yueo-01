@@ -14,4 +14,4 @@ i am an applied chemistry undergraduate exploring AI,neuroscience,personal knowl
 
 ## AI learning small steps
 
-- [2026-06-18: Codex skills, progressive disclosure, and safe GitHub publishing](logs/2026/06/2026-06-18.md)
+- [2026-06-18：Codex skill、渐进式披露和安全发布到 GitHub](logs/2026/06/2026-06-18.md)
